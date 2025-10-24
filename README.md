@@ -21,6 +21,9 @@ Full Stack Software Developer
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </a>
+    <a href="https://learn.microsoft.com/pt-br/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170" target="_blank">
+        <img alt="C++" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </a>
     <a href="https://www.php.net/docs.php" target="_blank">
         <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     </a>
